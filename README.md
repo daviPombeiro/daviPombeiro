@@ -1,7 +1,7 @@
 ### Hey, there! 👋
 
 My name is Davi Pombeiro
-I'm a junior fullstack developer currently working at IM Digital.
+I'm a junior fullstack developer currently working at WEBJUMP.
 
 - 🌱 I’m currently learning and working with Magento PHP.
 - I'm studying NodeJS and Elixir in my spare time.
